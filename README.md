@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leokotman
 - 👀 I’m interested in Web-development, game-development. Love classical music, cats & travelling.
-- 🌱 I’m currently learning JS & frameworks (React, Node.js)
+- 🌱 I’m currently learning JS & frameworks, libraries (React, Node.js)
 - 📫 How to reach me:
 from.my.heart45@gmail.com
 
