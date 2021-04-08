@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leokotman
-- 👀 I’m interested in Web-development, game-development. Love classical music, cats & travelling.
-- 🌱 I’m currently learning JS & frameworks, libraries (React, Node.js)
+- 👀 I’m interested in Front-end web-development, game-development. Love classical music, cats & travelling.
+- 🌱 I’m currently learning JS & frameworks, libraries (ReactJs, VueJs).
 - 📫 How to reach me:
-from.my.heart45@gmail.com
+levkotman@gmail.com
 
 <!---
 leokotman/leokotman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
