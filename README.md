@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leokotman
-- 👀 I’m interested in Front-end web-development, game-development. Love classical music, cats & travelling.
-- 🌱 I work with VueJs, ReactJs.
+- I work as a Front-end developer. Love classical music, cats & travelling.
+- 🌱 I work with ReactJs.
 - 📫 How to reach me:
 levkotman@gmail.com
 <!---
